@@ -11,7 +11,6 @@ This is the first HTML page of the three-page Project 2 assignment, not the comp
 ## Files
 
 - **stock-forecast-lab.html** - Complete application, including styling, data generation, models, charts, and interactions.
-- **prompts.txt** - User prompts and revision notes for the internship submission.
 - **README.md** - Project overview and usage instructions.
 
 ## Run the project
